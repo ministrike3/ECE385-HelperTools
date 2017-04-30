@@ -1,6 +1,8 @@
 # Introduction And Motivation
-Hopefully some of you found this fork of the ECE385-HelperTools; thats because my modification of this set makes it easier to work on the things that matter. 
+Hopefully some of you found this fork of the ECE385-HelperTools; thats because my modification of this set makes it easier to work on the things that matter.
+ 
 All credit to github user Atrifex for writing the tools that do the heavy lifting; I really just cleaned up the folder system, made the script i wanted (png-to-palette-relative-resizer.py) work out of the box, and helped out the people that were looking for a tool to make arrays for easy loading. 
+
 A tutorial on how to use the array based process might follow; it depends on interest! 
 
 # How to Use these scripts
